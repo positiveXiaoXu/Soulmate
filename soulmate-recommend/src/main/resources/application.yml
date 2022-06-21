@@ -1,9 +1,0 @@
-spring:
-  rabbitmq:
-    host: 192.168.136.160
-    port: 5672
-    username: guest
-    password: guest
-  data:
-    mongodb:
-      uri: mongodb://192.168.136.160:27017/soulmate
