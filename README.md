@@ -3,7 +3,7 @@ Soulmate is an online dating platform for strangers. In this platform, you can s
 
 Below here are my java project exercise codes, I would like to share it with everyone, hope that we are able to improve with everyone!
 
-## Project dependent environment
+## Project dependent environments
 - JDK1.8
 - Intellij Idea
 - maven-3.x or above
