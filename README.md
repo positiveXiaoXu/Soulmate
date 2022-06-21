@@ -13,7 +13,7 @@ Below here are my java project exercise codes, I would like to share it with eve
 
 SpringBoot + SpringMVC + MyBatisPlus + Dubbo + MySQL + Redis + MongoDB + RocketMQ + Elasticsearch
 
-## Key technical proposal
+## Technical proposal
 
 - Using Elasticsearch geo to implement nearby people search
 
